@@ -1,108 +1,49 @@
-<!--
-## Hi there 👋
-**GRMaruf/GRMaruf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
 
-# 👋 Hi, I'm Golam Rasul Maruf
-
-### 🚀 Passionate Backend Developer from Bangladesh
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Django+Backend+Developer;REST+API+Developer;Python+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:334155&text=Golam%20Rasul%20Maruf&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Django%20Enthusiast%20%7C%20REST%20API%20Developer&descAlignY=58&descSize=18"/>
 
 <br>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Backend+Developer;Django+%26+Python+Developer;REST+API+Enthusiast;Learning+JWT+%26+Payment+Integration;Always+Building+and+Learning" alt="Typing SVG" />
+
+<br><br>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=grmaruf&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/GRMaruf">
+    <img src="https://img.shields.io/github/followers/GRMaruf?label=Followers&style=for-the-badge&color=0ea5e9" />
+  </a>
+  
+  <a href="mailto:golamrasulmaruf@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
+  </a>
+
+  <a href="https://profile.pybrothers.top/grmaruf">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-<div align="center">
+## 💫 About Me
 
-### 💡 Building scalable backend systems with Django & Python
+```python
+class GolamRasulMaruf:
+    location = "Bangladesh"
+    role = "Backend Developer"
 
-🌱 Currently learning **JWT Authentication** & **Payment Gateway Integration**  
-💬 Ask me about **Django, Python, REST APIs & Backend Development**  
-⚡ Fun fact: *I enjoy meditation and deep thinking*
+    currently_learning = [
+        "JWT Authentication",
+        "Payment Gateway Integration",
+        "Advanced Django"
+    ]
 
-</div>
+    ask_me_about = [
+        "Django",
+        "Python",
+        "REST APIs",
+        "Backend Development"
+    ]
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=grmaruf&label=Profile%20Views&color=0e75b6&style=flat" alt="grmaruf" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🌱 Currently learning **Django JWT Authentication** and **Payment Gateway Integration**
-- 👨‍💻 Explore my projects here:  
-  🌐 [profile.pybrothers.top/grmaruf](https://profile.pybrothers.top/grmaruf)
-- 💬 Ask me about **Django, Python, REST APIs, and Backend Development**
-- 📫 Reach me at: **golamrasulmaruf@gmail.com**
-- 📄 Portfolio & Experience:  
-  🌐 [profile.pybrothers.top/grmaruf](https://profile.pybrothers.top/grmaruf)
-- ⚡ Fun fact: **I enjoy meditation and deep thinking**
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/grmaruf" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github"/>
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/>
-  </a>
-</p>
-
----
-
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,postgresql,mysql,sqlite,html,css,bootstrap,git,linux,java,c" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=grmaruf&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=grmaruf&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=grmaruf&layout=compact&theme=tokyonight" />
-</p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grmaruf&show_icons=true&locale=en" alt="grmaruf" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grmaruf" alt="grmaruf" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=grmaruf&show_icons=true&locale=en&layout=compact" alt="grmaruf" />
-</p> -->
+    fun_fact = "I enjoy meditation and deep thinking."
