@@ -49,7 +49,7 @@ class GolamRasulMaruf:
     fun_fact = "I enjoy meditation and deep thinking."
 
 
-<!--
+<!---
 Why this looks more professional:
 
 - Modern hero banner
@@ -62,5 +62,4 @@ Why this looks more professional:
 - Looks like experienced developer profiles
 
 This style is currently very popular among strong GitHub developer profiles.
-::contentReference[oaicite:0]{index=0}
--->
+::contentReference[oaicite:0]{index=0}--->
