@@ -12,8 +12,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Golam Rasul Maruf</h1>
-<h3 align="center">A Passionate Backend Developer from Bangladesh</h3>
+<div align="center">
+
+# 👋 Hi, I'm Golam Rasul Maruf
+
+### 🚀 Passionate Backend Developer from Bangladesh
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Django+Backend+Developer;REST+API+Developer;Python+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=grmaruf&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Building scalable backend systems with Django & Python
+
+🌱 Currently learning **JWT Authentication** & **Payment Gateway Integration**  
+💬 Ask me about **Django, Python, REST APIs & Backend Development**  
+⚡ Fun fact: *I enjoy meditation and deep thinking*
+
+</div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=grmaruf&label=Profile%20Views&color=0e75b6&style=flat" alt="grmaruf" />
