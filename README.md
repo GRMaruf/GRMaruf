@@ -48,18 +48,3 @@ class GolamRasulMaruf:
 
     fun_fact = "I enjoy meditation and deep thinking."
 
-
-<!---
-Why this looks more professional:
-
-- Modern hero banner
-- Strong visual hierarchy
-- Clean spacing
-- Developer-style intro block
-- Professional badges
-- Dark-theme friendly
-- Minimal but premium aesthetic
-- Looks like experienced developer profiles
-
-This style is currently very popular among strong GitHub developer profiles.
-::contentReference[oaicite:0]{index=0}--->
